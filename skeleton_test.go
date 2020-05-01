@@ -1,7 +1,6 @@
-package skeleton_test
+package skeleton
 
 import (
-	. "skeleton"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
